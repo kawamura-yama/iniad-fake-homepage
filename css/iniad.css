@@ -1,6 +1,10 @@
 body {
   background-color: #794c13;
   color: #FE4261;
+  background-image: url(https://iniad-sample1--besshomasahiro.repl.co/img/hub1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: overlay;
 }
 
 h1 {
