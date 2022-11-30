@@ -1,6 +1,6 @@
 body {
-  background-color: rgba(211, 228, 250,0.7);
-  color: #FE4261;
+  background-color: rgba(255, 255, 255, 0.7);
+  color: #000000;
   background-image: url("https://iniad-sample1--besshomasahiro.repl.co/img/hub1.jpg");
   background-size: cover;
   background-attachment: fixed;
@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 30px;
   text-align: center;
 }
 
