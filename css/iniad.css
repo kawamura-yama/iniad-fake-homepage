@@ -53,3 +53,7 @@ iframe {
 #header img {
   height : 100%;
 }
+
+#right_place{
+  float: right;
+}
